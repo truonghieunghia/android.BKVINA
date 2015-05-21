@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BKVINA.iml" filepath="$PROJECT_DIR$/BKVINA.iml" />
       <module fileurl="file://$PROJECT_DIR$/BKVINA-SHOP/BKVINA-SHOP.iml" filepath="$PROJECT_DIR$/BKVINA-SHOP/BKVINA-SHOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-libs/BaseLibs/BaseLibs.iml" filepath="$PROJECT_DIR$/base-libs/BaseLibs/BaseLibs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-libs/base-libs.iml" filepath="$PROJECT_DIR$/base-libs/base-libs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-libs/volley/volley.iml" filepath="$PROJECT_DIR$/base-libs/volley/volley.iml" />
     </modules>
   </component>
 </project>

@@ -9,6 +9,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/BKVINA-SHOP" />
+            <option value="$PROJECT_DIR$/base-libs" />
+            <option value="$PROJECT_DIR$/base-libs/BaseLibs" />
+            <option value="$PROJECT_DIR$/base-libs/volley" />
           </set>
         </option>
       </GradleProjectSettings>
