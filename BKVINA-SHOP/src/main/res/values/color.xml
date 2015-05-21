@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbar_bg" >#0052ca</color>
+    <color name="button_red" >#ec0000</color>
+    <color name="button_red_selector" >#50ec0000</color>
+    <color name="content_bg" >#edebec</color>
+    <color name="text_default_gray" >#9d9d9d</color>
+    <color name="text_bol_gray" >#636363</color>
+    <color name="text_default_white" >#faffff</color>
+</resources>

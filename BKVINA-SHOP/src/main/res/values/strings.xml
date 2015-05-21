@@ -3,4 +3,18 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="copyright">Copyright &#169; 2014 BKVINA \n All right reserved</string>
+    <string name="login">Đăng nhập</string>
+    <string name="register">Đăng ký</string>
+    <string name="forget_password">Quên mật khẩu ?</string>
+    <string name="username">Tên đăng nhập </string>
+    <string name="password">Mật khẩu </string>
+    <string name="repassword">Xác nhận mật khẩu </string>
+    <string name="email">Email </string>
+    <string name="skip_login">Bỏ qua đăng nhập  </string>
+    <string name="no_account">Bạn có tài khoản chưa ? &#160;</string>
+    <string name="have_account">Bạn đã có tài khoản ? &#160;</string>
+    <string name="create_account">Tạo Tài Khoản </string>
+    <string name="send">GỬI </string>
+    <string name="infor_forget_password">Nhập Email hoặc số điện thoạ của bạn để khôi phục mật khẩu  </string>
 </resources>
